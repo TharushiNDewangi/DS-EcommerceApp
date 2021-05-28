@@ -1,0 +1,10 @@
+.productContainer{
+    display: flex;
+    justify-content: space-between;
+
+}
+.product{
+    border: 1px dashed orchid;
+    padding: 20px;
+    margin: 10px;
+}
